@@ -13,16 +13,14 @@
 }
 
 body{
-    font-family:Arial, sans-serif;
-    background:#f4f4f4;
-    color:#333;
-}
-
-header{
-    background:#111;
-    color:white;
-    text-align:center;
-    padding:50px 20px;
+font-family:Arial, sans-serif;
+background:#f4f4f4;
+color:#333;
+}header{
+background:#111;
+color:white;
+text-align:center;
+padding:50px 20px;
 }
 
 header h1{
